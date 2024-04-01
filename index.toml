@@ -1,0 +1,126 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE.md"
+hash = "236aafed3b36e8c89816ced12db938b9f372dedeb2cffae7c718d696b57366e0"
+
+[[files]]
+file = "config/effective.json"
+hash = "901ccdbc59927dc20e6b02fd94c263d73f7cb212e4ba9b06b0309878f791b8d7"
+
+[[files]]
+file = "config/logbegone.toml"
+hash = "775a3d23b9fa36e7c19cb452bbefaead6430e7d56fdb49f26ac9f7a67d8c9eeb"
+
+[[files]]
+file = "config/ok_zoomer/config.toml"
+hash = "40537db7f22d6d6209d1a86763ec4e473e12cbed18edec4ffac8ea883e4b45c4"
+
+[[files]]
+file = "mods/boring_spawn_chunks.pw.toml"
+hash = "5fae066ea3aa93c25ee346354bd173e1929b57d2844553b1ab9b146f428a88cb"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "c102c17148affae740d8152d7a9123b79a808a3f6eb5734791e22cde43cf19a4"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
+metafile = true
+
+[[files]]
+file = "mods/ennuis_bigger_gambiarra.pw.toml"
+hash = "a870f65a39746569f793aea6da780603bc017299d9a69475212cea6272b60c99"
+metafile = true
+
+[[files]]
+file = "mods/ennuis_bigger_inventories.pw.toml"
+hash = "4cd109fd0e941f4c9948d9c1a1cd7b2f4d92ac9eb203dca1d6c92c528f75a855"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "497d26fe7f85a6c62cf50d4a86323584ff5b01ba1fa98e06686125ddf85bda89"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "86ce30ccc9a035c6249d8140abf8d0fae7f828472913409b3febf46394bbc34d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "02ee44d056d0f9881b260b987a8651815c363f4f20f6f589eeb3df0f63006608"
+metafile = true
+
+[[files]]
+file = "mods/qdresloader.pw.toml"
+hash = "f7cebb9f191593ed8d3aee3a1bd3ea8c400625702aea0fd5d6ffb9db0105b926"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "resources/QDResLoader-README.txt"
+hash = "25ff5818726d9d149ae930319e216f3b812629b4dd90b36efde35ed5bb6b6e04"
+
+[[files]]
+file = "resources/datapacks/The Bundle Bundle/LICENSE.md"
+hash = "b013de2613ddf67dd3d1780fe66c803374f6387fab8bf5e56b90add741764640"
+
+[[files]]
+file = "resources/datapacks/The Bundle Bundle/data/minecraft/advancements/recipes/tools/bundle.json"
+hash = "e72d3c46c6cb97f536182a893819009a91f0066f90734bd6c5182c7988e04fb9"
+
+[[files]]
+file = "resources/datapacks/The Bundle Bundle/data/minecraft/recipes/bundle.json"
+hash = "779dcfbbd62a8880e70c3b4ff699807607523c76d996ae5c700718d338f666d4"
+
+[[files]]
+file = "resources/datapacks/The Bundle Bundle/pack.mcmeta"
+hash = "6bc2cb2e9bde7767d63f24561ad12a2f14524475297179d380e35f1865e82e86"
+
+[[files]]
+file = "resources/pack.png"
+hash = "65f7f1aa7c997d6313ce51c8037b233fbcf9c8b91372b2951ffe36ff42e81f28"

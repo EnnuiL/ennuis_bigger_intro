@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": "A copy of the vanilla Bundle experiments toggle.",
+    "pack_format": 15
+  },
+  "features": {
+    "enabled": [
+      "minecraft:bundle"
+    ]
+  }
+}

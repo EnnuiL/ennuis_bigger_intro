@@ -1,0 +1,13 @@
+name = "Ennui's Bigger Inventories"
+filename = "ennuis_bigger_inventories-0.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3vWSQmpn/versions/SYdGNmuG/ennuis_bigger_inventories-0.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "448c1e297af87056e4f55f7e1c0612df7d35a771"
+
+[update]
+[update.modrinth]
+mod-id = "3vWSQmpn"
+version = "SYdGNmuG"
