@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE.md"
-hash = "236aafed3b36e8c89816ced12db938b9f372dedeb2cffae7c718d696b57366e0"
-
-[[files]]
 file = "config/effective.json"
 hash = "901ccdbc59927dc20e6b02fd94c263d73f7cb212e4ba9b06b0309878f791b8d7"
 
 [[files]]
 file = "config/logbegone.toml"
 hash = "775a3d23b9fa36e7c19cb452bbefaead6430e7d56fdb49f26ac9f7a67d8c9eeb"
-
-[[files]]
-file = "config/ok_zoomer/config.toml"
-hash = "40537db7f22d6d6209d1a86763ec4e473e12cbed18edec4ffac8ea883e4b45c4"
 
 [[files]]
 file = "mods/boring_spawn_chunks.pw.toml"
@@ -33,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/ennuis_bigger_gambiarra.pw.toml"
-hash = "a870f65a39746569f793aea6da780603bc017299d9a69475212cea6272b60c99"
+hash = "aa2637ecfd5019c70696ac75e1d626b08182fef90b0c140a3c7dd19a5d309184"
 metafile = true
 
 [[files]]
@@ -83,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "02ee44d056d0f9881b260b987a8651815c363f4f20f6f589eeb3df0f63006608"
+hash = "0b3a68ab8700e95288d2eec264ac188f0fc9fe1c7a3901c9dbc06ad207c90624"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Ennui's Bigger Gambiarra"
-filename = "ennuis_bigger_gambiarra-0.1.0+1.20.1.jar"
+filename = "ennuis_bigger_gambiarra-0.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jBNms9o3/versions/IgB2IFRg/ennuis_bigger_gambiarra-0.1.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/jBNms9o3/versions/DCElhdYj/ennuis_bigger_gambiarra-0.2.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "2dfa9a8641bfb1700ed4cd943b28e1c4f28cc386"
+hash = "45c6b651c09adf49f05c21914bc1ad1f14ac8a94"
 
 [update]
 [update.modrinth]
 mod-id = "jBNms9o3"
-version = "IgB2IFRg"
+version = "DCElhdYj"
