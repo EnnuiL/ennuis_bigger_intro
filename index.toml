@@ -10,7 +10,7 @@ hash = "775a3d23b9fa36e7c19cb452bbefaead6430e7d56fdb49f26ac9f7a67d8c9eeb"
 
 [[files]]
 file = "mods/boring_spawn_chunks.pw.toml"
-hash = "5fae066ea3aa93c25ee346354bd173e1929b57d2844553b1ab9b146f428a88cb"
+hash = "b9f19b13c738df291dfe26b8fe6589afe663fe7eecc5728118d8dfb933a7230c"
 metafile = true
 
 [[files]]
@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
+hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
 metafile = true
 
 [[files]]
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -51,11 +51,6 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "497d26fe7f85a6c62cf50d4a86323584ff5b01ba1fa98e06686125ddf85bda89"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
 metafile = true
 
 [[files]]
@@ -75,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "0b3a68ab8700e95288d2eec264ac188f0fc9fe1c7a3901c9dbc06ad207c90624"
+hash = "fa60a27925d181cf230224b91bae44502752c7941b5cb2b3c8eef26bb7b17687"
 metafile = true
 
 [[files]]

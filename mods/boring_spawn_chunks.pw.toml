@@ -1,13 +1,13 @@
 name = "Boring Spawn Chunks"
-filename = "boring_spawn_chunks-1.0.0+1.20.1.jar"
+filename = "boring_spawn_chunks-1.0.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5lGtNdim/versions/EkRjajix/boring_spawn_chunks-1.0.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/5lGtNdim/versions/3uvulmH3/boring_spawn_chunks-1.0.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "5a2dfa23882d0d751e506dbcb9203edf5b0a060f"
+hash = "180342c4cfefe803dfa2d42a3662a63242141aed"
 
 [update]
 [update.modrinth]
 mod-id = "5lGtNdim"
-version = "EkRjajix"
+version = "3uvulmH3"
