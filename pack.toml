@@ -1,13 +1,13 @@
 name = "Ennui's Bigger Intro"
 author = "Ennui Langeweile"
-version = "1.0.0-beta.2"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e70551a11f1e74906dec8e7ba8c3b12d03cf3e24dac303a40800313dd1afc020"
+hash = "655d7ca52a22ddd551861eb3048db43b3348211e93b1669de5fe5bf355aedb1f"
 
 [versions]
+fabric = "0.16.9"
 minecraft = "1.21.3"
-quilt = "0.27.0-beta.1"
