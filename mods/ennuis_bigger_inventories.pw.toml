@@ -1,13 +1,13 @@
 name = "Ennui's Bigger Inventories"
-filename = "ennuis_bigger_inventories-0.3.0-beta.1+1.21.3.jar"
+filename = "ennuis_bigger_inventories-0.4.0-beta.1+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3vWSQmpn/versions/1ziLwrqf/ennuis_bigger_inventories-0.3.0-beta.1%2B1.21.3.jar"
+url = "https://cdn.modrinth.com/data/3vWSQmpn/versions/4lyvqljg/ennuis_bigger_inventories-0.4.0-beta.1%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "2a12acec5e91986076a2807d3c0eed45cbcefc949d31699faaa57f9f8b3cad2545eaa20839274903ee229e42b93ee262dcc48fb90a1cb87ea4dda96fd7a60d78"
+hash = "e0b4b7edca84a9eefc8037d1ead502fa8589d26f2db8b463a711c206d30e5d8752df2fd9bef27d865381902d2bbff4b755fe1464ebbcc15ba0a4ca733f86f502"
 
 [update]
 [update.modrinth]
 mod-id = "3vWSQmpn"
-version = "1ziLwrqf"
+version = "4lyvqljg"

@@ -6,35 +6,35 @@ hash = "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
 
 [[files]]
 file = "mods/ennuis_bigger_inventories.pw.toml"
-hash = "085f302dc714edb1d6d0de65cbdde9bdbd5d065c71ae767c0bb57a149412dfb8"
+hash = "cb35785c1487db5dc771f41b55d4d12b39e27cfdc079326cb5003fa2a6bd358b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9c36c83ffb26de00465c63f53744c9dab43498402136a422bfdf88bbeadf6689"
+hash = "40aa9a34a6ae8d39fb3e8fb8d7ae2edfd17fee124300a1ea26c65f06cff89de9"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c79a98c5013dd8f1e219043aef5d77a969f9703455c5d4ca50e366ba943d0295"
+hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0d50516f7ba174f3bc8fb4c12e1200d82649ca5e3b3f42de408d420bfa13fd2d"
+hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "8df15e4c82204449bc611392e13ba20e6586e9be5aedc65260deead2de0b00f6"
+hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e43454084839b810fa0fbc9a5193fca1d72470ecbc06d2138538306f08cb2849"
+hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
 metafile = true
